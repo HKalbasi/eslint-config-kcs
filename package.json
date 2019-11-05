@@ -1,0 +1,20 @@
+{
+  "name": "eslint-config-kcs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["eslint", "config", "functional"],
+  "author": "hkalbasi",
+  "license": "GPL-3.0-or-later",
+  "peerDependencies": {
+    "eslint": ">= 3",
+    "eslint-plugin-immutable": "~1.0.0",
+    "eslint-plugin-import": "~2.18.2",
+    "eslint-plugin-prefer-arrow": "~1.1.5",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-toplevel": "^1.0.1"
+  }
+}
